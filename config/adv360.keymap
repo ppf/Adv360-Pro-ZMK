@@ -37,7 +37,7 @@
             display-name = "Base";
             bindings = <
 &kp EQUAL  &kp N1       &kp N2       &kp N3       &kp N4     &kp N5  &quit_vim                                                                            &mo 2                &kp N6       &kp N7  &kp N8     &kp N9       &kp N0    &kp MINUS
-&kp TAB    &kp Q        &kp W        &kp E        &kp R      &kp T   &kp LS(LEFT)                                                                         &kp LS(RIGHT_ARROW)  &kp Y        &kp U   &kp I      &hm LA(O) O  &kp P     &kp BSLH
+&kp TAB    &kp Q        &kp W        &hm LA(E) E  &kp R      &kp T   &kp LS(LEFT)                                                                         &kp LS(RIGHT_ARROW)  &kp Y        &kp U   &kp I      &hm LA(O) O  &kp P     &kp BSLH
 &kp ESC    &hm LA(A) A  &hm LA(S) S  &kp D        &kp F      &kp G   &kp LA(LEFT_ARROW)  &kp LEFT_ALT      &kp LEFT_CONTROL      &kp RCTRL  &kp LEFT_ALT  &kp LA(RIGHT_ARROW)  &kp H        &kp J   &kp K      &hm LA(L) L  &kp SEMI  &kp SQT
 &kp LSHFT  &hm LA(Z) Z  &hm LA(X) X  &hm LA(C) C  &kp V      &kp B                                         &kp HOME              &kp PG_UP                                     &hm LA(N) N  &kp M   &kp COMMA  &kp DOT      &kp FSLH  &kp RSHFT
 &mo 1      &kp GRAVE    &kp LG(TAB)  &kp LEFT     &kp RIGHT          &kp BSPC            &kp LEFT_COMMAND  &kp END               &kp PG_DN  &kp ENTER     &kp SPACE                         &kp UP  &kp DOWN   &kp LBKT     &kp RBKT  &mo 1
@@ -51,7 +51,7 @@
 &trans  &bl BL_ON                               &trans  &trans  &trans  &trans  &none                                       &none   &trans  &trans  &trans  &trans   &kp LG(LS(NUMBER_4))  &trans
 &trans  &kp C_AC_DESKTOP_SHOW_ALL_APPLICATIONS  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &trans  &trans  &trans  &trans   &trans                &trans
 &trans  &trans                                  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans  &trans  &trans  &trans   &trans                &trans
-&trans  &kp F5                                  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans   &trans                &trans
+&trans  &kp LC(F5)                              &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans   &trans                &trans
             >;
         };
 
