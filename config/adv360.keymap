@@ -51,7 +51,7 @@
 &trans  &bl BL_ON                               &trans  &trans  &trans  &trans  &none                                       &none   &trans  &trans  &trans  &trans   &kp LG(LS(NUMBER_4))  &trans
 &trans  &kp C_AC_DESKTOP_SHOW_ALL_APPLICATIONS  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &trans  &trans  &trans  &trans   &trans                &trans
 &trans  &trans                                  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans  &trans  &trans  &trans   &trans                &trans
-&trans  &kp C_VOICE_COMMAND                     &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans   &trans                &trans
+&trans  &kp F5                                  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans   &trans                &trans
             >;
         };
 
